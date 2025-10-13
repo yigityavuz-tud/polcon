@@ -1,0 +1,11 @@
+## Ignore data/output directories
+/basic-chunks/
+/chunks/
+/limbo/
+/pdfs/
+/text/
+
+.env
+
+# Keep placeholder files if needed
+!.gitkeep
